@@ -1,0 +1,4 @@
+1. bandpass
+2. fft & spectrogram
+3. get modulation index
+4. 
